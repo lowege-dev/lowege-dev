@@ -48,7 +48,7 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 
 <div align="center">
   <a href="https://github.com/lowege-dev">
-    <img width="400" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lowege-dev&theme=dark&hide_border=true&stroke=5B21B6&ring=7C3AED&fire=FF6B35" />
+    <img width="1000" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lowege-dev&theme=dark&hide_border=true&stroke=5B21B6&ring=7C3AED&fire=FF6B35" />
   </a>
 </div>
 
