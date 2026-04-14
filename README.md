@@ -47,35 +47,10 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 ### 🏆 GitHub Streak!
 
 <div align="center">
-  <style>
-    @keyframes fadeInScale {
-      from {
-        opacity: 0;
-        transform: scale(0.95);
-      }
-      to {
-        opacity: 1;
-        transform: scale(1);
-      }
-    }
-    
-    .github-streak {
-      animation: fadeInScale 0.6s ease-in-out;
-      transition: all 0.3s ease;
-    }
-    
-    .github-streak:hover {
-      transform: scale(1.02) translateY(-5px);
-      filter: drop-shadow(0 10px 25px rgba(124, 58, 237, 0.4));
-    }
-  </style>
-  
   <a href="https://github.com/lowege-dev">
-    <img class="github-streak" width="700" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lowege-dev&theme=dark&hide_border=true&stroke=5B21B6&ring=7C3AED&fire=FF6B35&currStreakNum=7C3AED&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=A855F7"/>
+    <img width="700" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lowege-dev&theme=dark&hide_border=false&stroke=5B21B6&ring=7C3AED&fire=FF6B35&border=7C3AED&currStreakNum=7C3AED&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=A855F7" style="border-radius: 10px;" />
   </a>
 </div>
-
-style="border-radius: 10px;"
 
 ---
 <div align="center">
