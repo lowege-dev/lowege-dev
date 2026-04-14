@@ -52,7 +52,7 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
   </a>
 </div>
 
-
+----
 <div align="center">
   <i>"Ayoko na mag code."</i>
   <br/><br/>
