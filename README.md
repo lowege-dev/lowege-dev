@@ -48,10 +48,9 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 
 <div align="center">
   <a href="https://github.com/lowege-dev">
-    <img width="700" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lowege-dev&theme=dark&hide_border=false&stroke=5B21B6&ring=7C3AED&fire=FF6B35&border=7C3AED&currStreakNum=7C3AED&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=A855F7" style="border-radius: 10px;" />
+    <img width="700" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lowege-dev&theme=dark&hide_border=true&stroke=5B21B6&ring=7C3AED&fire=FF6B35&currStreakNum=7C3AED&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=A855F7" />
   </a>
 </div>
-
 ---
 <div align="center">
   <i>"Ayoko na mag code."</i>
