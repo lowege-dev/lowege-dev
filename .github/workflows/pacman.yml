@@ -2,8 +2,11 @@ name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,13 +14,13 @@ jobs:
     name: Generate Pacman Graph
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: lowege-dev 
+          github_user_name: lowege-dev
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-light.svg?palette=github-light
