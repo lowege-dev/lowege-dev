@@ -38,10 +38,10 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 <div align="center">
   <!-- Interactive Pac-Man Contribution Graph -->
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lowege-dev/lowege-dev/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lowege-dev/lowege-dev/output/pacman-contribution-graph-light.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lowege-dev/lowege-dev/output/pacman-contribution-graph-dark.svg">
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lowege-dev/lowege-dev/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lowege-dev/lowege-dev/output/github-snake-light.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/lowege-dev/lowege-dev/output/github-snake-dark.svg">
+</picture>
 </div>
 
 
