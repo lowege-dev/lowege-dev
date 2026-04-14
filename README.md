@@ -44,13 +44,12 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 </picture>
 </div>
 
-### 🏆 GitHub Stats and Streak!
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowege-dev&theme=dark&show_icons=true&count_private=true)](https://github.com/lowege-dev)
+### 🏆 GitHub Streak!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lowege-dev&theme=dark)](https://github.com/lowege-dev)
 
-
+### GitHub Top Language
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lowege-dev&layout=compact&theme=dark)](https://github.com/lowege-dev)
 
 ---
 <div align="center">
