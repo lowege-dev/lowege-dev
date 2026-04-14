@@ -8,6 +8,7 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
   <br/>
 </div>
   
+ <div align="center">
   <a href="mailto:avilajohnluigi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
