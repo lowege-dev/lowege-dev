@@ -44,12 +44,10 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
     <img alt="github snake" src="https://raw.githubusercontent.com/lowege-dev/lowege-dev/output/github-snake-dark.svg">
 </picture>
 </div>
-
 ### 🏆 GitHub Streak!
-
 <div align="center">
   <a href="https://github.com/lowege-dev">
-    <img width="700" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lowege-dev&theme=dark&hide_border=true&stroke=5B21B6&ring=7C3AED&fire=FF6B35&currStreakNum=7C3AED&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=A855F7" />
+    <img width="700" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=lowege-dev&theme=dark&hide_border=true&background=00000000&stroke=5B21B6&ring=7C3AED&fire=FF6B35&currStreakNum=7C3AED&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=A855F7" />
   </a>
 </div>
 
