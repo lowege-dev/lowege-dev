@@ -44,6 +44,7 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
     <img alt="github snake" src="https://raw.githubusercontent.com/lowege-dev/lowege-dev/output/github-snake-dark.svg">
 </picture>
 </div>
+
 ### 🏆 GitHub Streak!
 <div align="center">
   <a href="https://github.com/lowege-dev">
