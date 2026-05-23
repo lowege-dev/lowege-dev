@@ -23,7 +23,7 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 ---
 
 ### About Me
-- I’m currently working on the **LuckyBoba POS System**
+- I’m currently working on the **Yarihub**
 - I’m currently diving deeper into **ReactJS / TypeScript**
 - Ask me about **React, Node.js, UI/UX, and Games!**
 
