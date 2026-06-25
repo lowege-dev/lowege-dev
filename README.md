@@ -24,7 +24,7 @@ a 4th-year Bachelor of Information Technology student at Quezon City University 
 
 ### About Me
 - I’m currently working on the **Yarihub**
-- I’m currently diving deeper into **ReactJS / TypeScript**
+- I’m currently diving deeper into **ReactJS / TypeScript / MERN Stack**
 - Ask me about **React, Node.js, UI/UX, and Games!**
 
 ### Tech Stack
